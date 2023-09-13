@@ -156,3 +156,14 @@ font-size: 30px;
 font-weight: 700;
 text-align: center;
 }
+.descricao-texto{
+    text-align: center;
+}
+.descricao-titulo-livro{
+    text-align: center;
+}
+.botoes-item{
+    padding: 0.5em,0.5em;
+}
+
+
